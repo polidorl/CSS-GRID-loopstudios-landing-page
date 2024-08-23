@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/polidorl/CSS-GRID-loopstudios-landing-page.git)
-- Live Site URL: [Add live site URL here](https://polidorl.github.io/CSS-GRID-loopstudios-landing-page.git/)
+- Solution URL: [https://github.com/polidorl/CSS-GRID-loopstudios-landing-page](https://github.com/polidorl/CSS-GRID-loopstudios-landing-page.git)
+- Live Site URL: [https://polidorl.github.io/CSS-GRID-loopstudios-landing-page.git/](https://polidorl.github.io/CSS-GRID-loopstudios-landing-page.git/)
 
 ## My process
 
