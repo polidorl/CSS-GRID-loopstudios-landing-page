@@ -69,9 +69,8 @@ I learned about the use of the picture tag in html , seeing how images automatic
 
 ## Author
 
-- Website - [Add your name here](in/lisbeth-emperatriz-polidor-solano-139b70117)
-- email - [@yourusername](polidor.lisbeth4@gmail.com)
-
+- Website - [in/lisbeth-emperatriz-polidor-solano-139b70117] 
+- email - [polidor.lisbeth4@gmail.com] 
 
 
 
